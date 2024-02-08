@@ -1,5 +1,5 @@
-# <center>💫 About Me:
-Embark on a coding odyssey with a passionate individual navigating the ever-evolving realms of technology. 🚀<br>🌐 Journey Through Education:<br>🎓 Pursuing a BSCS at DSU, armed with the latest knowledge in Computer Science.<br>🔗 Navigating the complexities of Blockchain, unraveling its potential one block at a time.<br>💻 Mastering the art of Front-End development, crafting seamless user experiences.<br><br>💻 Let's Code the Future Together:<br>•	🚀 Passion meets innovation as we embark on coding adventures.<br>•	🌐 Explore new horizons and shape the future of technology.<br>•	✨ Every line of code is a step toward a brighter, tech-infused tomorrow.<br><br></center>
+# 💫 About Me:
+<center>Embark on a coding odyssey with a passionate individual navigating the ever-evolving realms of technology. 🚀<br>🌐 Journey Through Education:<br>🎓 Pursuing a BSCS at DSU, armed with the latest knowledge in Computer Science.<br>🔗 Navigating the complexities of Blockchain, unraveling its potential one block at a time.<br>💻 Mastering the art of Front-End development, crafting seamless user experiences.<br><br>💻 Let's Code the Future Together:<br>•	🚀 Passion meets innovation as we embark on coding adventures.<br>•	🌐 Explore new horizons and shape the future of technology.<br>•	✨ Every line of code is a step toward a brighter, tech-infused tomorrow.<br><br></center>
 
 
 ## 🌐 Socials:
